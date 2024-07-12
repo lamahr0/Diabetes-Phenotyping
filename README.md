@@ -1,0 +1,2 @@
+Diagnosing diabetes using automated approaches would aid in increasing patient care, disease management and assist clinicians. In this project supervised algorithms were used to develop classifiers developed to detect type 1 diabetes and type 2 diabetes from MIMIC-IV clinical notes using three different approaches by leveraging natural language processing techniques, TD-IDF, word embeddings and the use of pre-trained large language model.
+
